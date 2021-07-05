@@ -1,0 +1,3 @@
+const addNoteHanler = (request, h) => {
+    
+};
